@@ -12,7 +12,7 @@ I’m currently working in the following domains:
 3. UI/UX Design (User-centric, modern interfaces)
 4. AI & Automation Solutions (AI-powered tools & integrations)
 5. SaaS Product Development
-6. Cloud Deployment & DevOps (Vercel, modern CI/CD)
+6. Cloud Deployment & DevOps coding (Vercel, modern CI/CD)
 
 - How to reach me zablerkhanahmad@gmail.com
 - Fun fact I love travel,reading books & playing games.
