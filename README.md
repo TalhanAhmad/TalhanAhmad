@@ -2,7 +2,7 @@
                                       Co-Founder @ Encova solutions private limited
                                   Full-Stack Engineer | Tech Leader | Business Strategist
     I am a results driven technology leader from Pakistan with a strong background in full-stack web development and product 
-                execution.  Currently, I lead Encova Solutions, where we build scalable, high-performance 
+                 execution.Currently, I lead Encova Solutions, where we build scalable,high-performance 
                              digital solutions for startups and enterprises worldwide.
 
                                                
