@@ -1,4 +1,4 @@
-                                                   👋 Hey, I'm Talha.
+hi                                                   👋 Hey, I'm Talha.
                                       Co-Founder @ Encova solutions private limited
                                   Full-Stack Engineer | Tech Leader | Business Strategist
     I am a results driven technology leader from Pakistan with a strong background in full-stack web development and product 
