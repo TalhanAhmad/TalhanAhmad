@@ -1,11 +1,5 @@
                                                 👋 Hey, I'm Talha.
-                                      Co-Founder @ Encova solutions private limited
-                                  Full-Stack Engineer | Tech Leader | Business Strategist
-    I am a results driven technology leader from Pakistan with a strong background in full-stack web development and product 
-                 execution.Currently, I lead Encova Solutions, where we build scalable,high-performance 
-                             digital solutions for startups and enterprises worldwide.
-
-                                               
+                                              
 I’m currently working in the following domains:
 1. Web Development (MERN Stack, MEAN Stack, PERN Stack, Next.js, Vue.js, Nest.js, Scalable web apps)
 2. Mobile App Development (Flutter – cross-platform apps)
